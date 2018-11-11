@@ -1,3 +1,6 @@
 *.o
 *.d
+brenner.c
+ofenoben.c
+ofenunten.c
 ofen
